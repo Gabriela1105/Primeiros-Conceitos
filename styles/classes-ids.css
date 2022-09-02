@@ -1,0 +1,30 @@
+div{
+    width: 250px;
+    height: 250px;
+    
+}
+#verde{
+    background-color: aquamarine;
+}
+#alto{
+    height: 350px;
+}
+.azul{
+    background-color: aqua;
+}
+.pequeno{
+    width: 150px;
+}
+.grande{
+    width: 350px;
+}
+.rosa{
+    background-color: rgb(226, 43, 202);
+}
+.minusculas{
+    text-transform: uppercase;
+}
+.maisculas{
+    font-size: 32px;
+    text-transform: uppercase;
+}

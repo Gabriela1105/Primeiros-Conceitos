@@ -1,0 +1,26 @@
+div{
+    background-color: rgba(127, 255, 212, 0.918);
+    min-height: 25px;
+}
+.margin-p{
+    margin: 16px;
+    background-color: #ff0;
+}
+.margin-m{
+    margin: 32px 64px 128px 16px;
+    background-color: rgb(111, 0, 255);
+}
+.margin-g{
+    margin-right: 48px;
+    margin-left: 48px;
+    background-color: rgb(255, 0, 13);
+}
+.padding-p{
+    padding-bottom: 15px;   
+}
+.padding-m{
+    padding: 32px 64px 128px 16px;
+}
+.padding-g{
+    padding: 48px;
+}
