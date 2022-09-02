@@ -1,0 +1,32 @@
+.display-inline{
+    display: inline;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 255, 255, 0.911);
+    margin: 16px;
+    /*  */
+}
+.display-block{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(255, 0, 0, 0.911);
+    margin: 16px;
+}
+
+.display-inline-block{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 255, 64, 0.911);
+    margin: 16px;
+    /* Mantém na mesma linha e com o mesmo tamanho */
+}
+.display-none{
+    display: none;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 255, 64, 0.911);
+    margin: 16px;
+    
+}
