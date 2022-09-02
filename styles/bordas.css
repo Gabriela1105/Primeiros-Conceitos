@@ -1,0 +1,9 @@
+.borda{
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted;
+    border-radius: 250px;
+}

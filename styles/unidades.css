@@ -1,0 +1,34 @@
+:root{
+    font-size: 20px;
+}
+.container{
+    background-color: rgb(154, 177, 177);
+    width: 500px;
+    height: 500px;
+    font-size: 20px;
+}
+.px{
+    background-color: rgba(0, 255, 255, 0.911);
+    height: 150px;
+    width: 150px;
+}
+.porcento{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(201, 233, 21);
+}
+
+/* EM- pega o valor do elemento pai de multiplica por x em */
+.em{
+    font-size: 1.25em;
+    background-color: rgb(72, 15, 124);
+    height: 3em;
+    margin-top: 1em;
+}
+/* Pega o valor do Root e multiplica */
+.rem{
+    font-size: 2rem;
+    background-color: rgb(23, 38, 126);
+    height: 3rem;
+    margin-top: 1rem;
+}
